@@ -1,0 +1,6 @@
+# Dependensi ccmon
+# Wajib: Python 3.9+ dan iproute2 (perintah `ss`) — biasanya sudah ada di Ubuntu.
+# matplotlib hanya dibutuhkan untuk membuat grafik PNG/HTML.
+#   sudo apt install python3-matplotlib
+# atau:
+matplotlib>=3.5
